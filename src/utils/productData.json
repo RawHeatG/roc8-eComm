@@ -1,0 +1,71 @@
+
+ {
+   "products": [
+    {
+      "name": "Black T-shirt",
+      "id": 1,
+      "price": 2000,
+      "size": "L",
+      "brand": "Levis",
+      "gender": "men",
+      "rating": 4,
+      "imgUrl":
+        "https://rukminim1.flixcart.com/image/880/1056/kf1fo280hlty2aw-0/t-shirt/w/s/e/-original-imafdfvvr8hqdu65.jpeg?q=50"
+    },
+    {
+      "name": "Pink T-shirt",
+      "id": 2,
+      "price": 2500,
+      "size": "M",
+      "brand": "Madame",
+      "gender": "women",
+      "rating": 3.5,
+      "imgUrl":
+        "https://rukminim1.flixcart.com/image/880/1056/kflftzk0/top/9/f/j/xl-gr5693-pink-harpa-original-imafwysgrnswdqk6.jpeg?q=50"
+    },
+    {
+      "name": "Scary Dress",
+      "id": 3,
+      "price": 5000,
+      "size": "S",
+      "brand": "Levis",
+      "gender": "men",
+      "rating": 4.5,
+      "imgUrl":
+        "https://rukminim1.flixcart.com/image/880/1056/jyxaw7k0/kid-costume-wear/w/c/y/60-kfd238-2-kaku-fancy-dresses-72-original-imafh9nhhpg9nhfx.jpeg?q=50"
+    },
+    {
+      "name": "Flower Dress",
+      "id": 4,
+      "price": 4000,
+      "size": "S",
+      "brand": "Madame",
+      "gender": "women",
+      "rating": 4,
+      "imgUrl":
+        "https://rukminim1.flixcart.com/image/880/1056/k5zn9u80/dress/4/4/w/l-a5484-m-r-fashion-original-imafzk36uah2ft7b.jpeg?q=50"
+    },
+    {
+      "name": "Blue Kurta",
+      "id": 5,
+      "price": 3000,
+      "size": "L",
+      "brand": "Levis",
+      "gender": "men",
+      "rating": 2.5,
+      "imgUrl":
+        "https://rukminim1.flixcart.com/image/880/1056/kolsscw0/kurta/b/z/a/m-kurta101-aadhar-original-imag3yv2brsxakur.jpeg?q=50"
+    },
+    {
+      "name": "Red Top",
+      "id": 6,
+      "price": 1500,
+      "size": "M",
+      "brand": "Madame",
+      "gender": "women",
+      "rating": 4,
+      "imgUrl":
+        "https://rukminim1.flixcart.com/image/880/1056/jwuzzww0/top/h/e/f/s-gr5872-rust-harpa-original-imafhfhyfzhmztcr.jpeg?q=50"
+    }
+  ]
+}
